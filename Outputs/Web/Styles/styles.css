@@ -1,0 +1,104 @@
+@font-face {
+    font-family: 'TitleFont';
+    src: url('../Fonts/Saucer.ttf');
+}
+
+@font-face {
+    font-family: 'TextFont';
+    src: url('../Fonts/Roboto-Light.ttf');
+}
+
+body {
+  background-color: #F7EDE2;
+}
+
+select.matchOption {
+   -webkit-appearance: none;
+   -moz-appearance: none;
+   appearance: none;
+   background: url(http://www.webcis.com.br/images/imagens-noticias/select/ico-seta-appearance.gif) no-repeat #eeeeee;
+   background-position: 218px center;
+   border:1px solid #ddd;
+   width: 250px;
+   height: 30px;
+   margin-top: 30px;
+   margin-left: auto;
+   margin-right: auto;
+   display: block;
+   padding:5px 5px;
+   font-family: 'TextFont';
+}
+
+h1.pageTitle {
+  color: #84A59D;
+  text-align: center;
+  font-family: 'TitleFont';
+  font-size: 400%;
+}
+
+img.divisor {
+  display: block;
+  margin: 0 auto;
+  margin-top:-50px;
+  width:500px;
+  height:50px;
+}
+
+div.container {
+  margin: 0 auto;
+  padding: 40px;
+  max-width: 500px;
+  margin-top: -20px;
+}
+
+div.table {
+  margin: 0 0 40px 0;
+  width: 100%;
+  box-shadow: 0 1px 3px rgba(0, 0, 0, 0.2);
+  display: table;
+}
+
+@media screen and (max-width: 580px) {
+  div.table {
+    display: block;
+  }
+}
+
+div.rowHeader {
+  display: table-row;
+  font-weight: 900;
+  color: #ffffff;
+  background: #84A59D;
+}
+
+div.row {
+  display: table-row;
+  background: #f6f6f6;
+}
+
+div.row:nth-of-type(odd) {
+  background: #e9e9e9;
+}
+
+@media screen and (max-width: 580px) {
+  div.row {
+    padding: 8px 0;
+    display: block;
+  }
+  div.rowHeader {
+    padding: 8px 0;
+    display: block;
+  }
+}
+
+div.cell {
+  padding: 6px 12px;
+  display: table-cell;
+}
+
+@media screen and (max-width: 580px) {
+  div.cell {
+    padding: 2px 12px;
+    display: block;
+  }
+}

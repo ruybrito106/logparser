@@ -1,0 +1,167 @@
+game_1: {
+}
+
+game_2: {
+    1: { username: "Mocinha", kills: 0 }
+    2: { username: "Isgalamido", kills: -5 }
+}
+
+game_3: {
+    1: { username: "Isgalamido", kills: 1 }
+    2: { username: "Mocinha", kills: 0 }
+    3: { username: "Dono da Bola", kills: -1 }
+    4: { username: "Zeh", kills: -2 }
+}
+
+game_4: {
+    1: { username: "Zeh", kills: 20 }
+    2: { username: "Isgalamido", kills: 19 }
+    3: { username: "Dono da Bola", kills: 13 }
+    4: { username: "Assasinu Credi", kills: 13 }
+}
+
+game_5: {
+    1: { username: "Isgalamido", kills: 2 }
+    2: { username: "Zeh", kills: 1 }
+    3: { username: "Assasinu Credi", kills: 1 }
+    4: { username: "Dono da Bola", kills: 0 }
+}
+
+game_6: {
+    1: { username: "Oootsimo", kills: 8 }
+    2: { username: "Zeh", kills: 7 }
+    3: { username: "Isgalamido", kills: 3 }
+    4: { username: "Dono da Bola", kills: 2 }
+    5: { username: "Assasinu Credi", kills: 1 }
+    6: { username: "Mal", kills: 0 }
+    7: { username: "UnnamedPlayer", kills: 0 }
+    8: { username: "Maluquinho", kills: 0 }
+}
+
+game_7: {
+    1: { username: "Assasinu Credi", kills: 22 }
+    2: { username: "Oootsimo", kills: 20 }
+    3: { username: "Isgalamido", kills: 16 }
+    4: { username: "Dono da Bola", kills: 12 }
+    5: { username: "Zeh", kills: 9 }
+    6: { username: "Chessus", kills: 0 }
+    7: { username: "Mal", kills: -3 }
+}
+
+game_8: {
+    1: { username: "Isgalamido", kills: 20 }
+    2: { username: "Oootsimo", kills: 16 }
+    3: { username: "Zeh", kills: 12 }
+    4: { username: "Assasinu Credi", kills: 10 }
+    5: { username: "Dono da Bola", kills: 3 }
+    6: { username: "Mal", kills: -2 }
+}
+
+game_9: {
+    1: { username: "Zeh", kills: 12 }
+    2: { username: "Assasinu Credi", kills: 10 }
+    3: { username: "Oootsimo", kills: 9 }
+    4: { username: "Chessus", kills: 8 }
+    5: { username: "Mal", kills: 3 }
+    6: { username: "Dono da Bola", kills: 2 }
+    7: { username: "Isgalamido", kills: 1 }
+}
+
+game_10: {
+    1: { username: "Zeh", kills: 7 }
+    2: { username: "Isgalamido", kills: 6 }
+    3: { username: "Chessus", kills: 5 }
+    4: { username: "Assasinu Credi", kills: 3 }
+    5: { username: "Dono da Bola", kills: 3 }
+    6: { username: "Mal", kills: 1 }
+    7: { username: "Oootsimo", kills: -1 }
+}
+
+game_11: {
+    1: { username: "Isgalamido", kills: 5 }
+    2: { username: "Oootsimo", kills: 4 }
+    3: { username: "Chessus", kills: 0 }
+    4: { username: "Mal", kills: 0 }
+    5: { username: "Zeh", kills: 0 }
+    6: { username: "Dono da Bola", kills: -2 }
+    7: { username: "Assasinu Credi", kills: -3 }
+}
+
+game_12: {
+    1: { username: "Isgalamido", kills: 26 }
+    2: { username: "Assasinu Credi", kills: 20 }
+    3: { username: "Zeh", kills: 13 }
+    4: { username: "Oootsimo", kills: 13 }
+    5: { username: "Chessus", kills: 13 }
+    6: { username: "Dono da Bola", kills: 3 }
+    7: { username: "Mal", kills: -6 }
+}
+
+game_13: {
+    1: { username: "Zeh", kills: 2 }
+    2: { username: "Oootsimo", kills: 2 }
+    3: { username: "Assasinu Credi", kills: 0 }
+    4: { username: "Dono da Bola", kills: -1 }
+    5: { username: "Isgalamido", kills: -1 }
+}
+
+game_14: {
+    1: { username: "Isgalamido", kills: 22 }
+    2: { username: "Oootsimo", kills: 9 }
+    3: { username: "Assasinu Credi", kills: 7 }
+    4: { username: "Chessus", kills: 7 }
+    5: { username: "Zeh", kills: 5 }
+    6: { username: "Dono da Bola", kills: 2 }
+    7: { username: "Mal", kills: -2 }
+}
+
+game_15: {
+    1: { username: "Zeh", kills: -3 }
+}
+
+game_16: {
+}
+
+game_17: {
+    1: { username: "Oootsimo", kills: 1 }
+    2: { username: "Zeh", kills: 0 }
+    3: { username: "Isgalamido", kills: 0 }
+    4: { username: "Mal", kills: -1 }
+    5: { username: "Dono da Bola", kills: -2 }
+    6: { username: "Assasinu Credi", kills: -3 }
+}
+
+game_18: {
+    1: { username: "Zeh", kills: 2 }
+    2: { username: "Assasinu Credi", kills: 2 }
+    3: { username: "Isgalamido", kills: 1 }
+    4: { username: "Oootsimo", kills: 0 }
+    5: { username: "Dono da Bola", kills: -1 }
+    6: { username: "Mal", kills: -1 }
+}
+
+game_19: {
+    1: { username: "Zeh", kills: 20 }
+    2: { username: "Isgalamido", kills: 14 }
+    3: { username: "Dono da Bola", kills: 14 }
+    4: { username: "Oootsimo", kills: 10 }
+    5: { username: "Assasinu Credi", kills: 9 }
+    6: { username: "Mal", kills: 2 }
+}
+
+game_20: {
+    1: { username: "Dono da Bola", kills: 2 }
+    2: { username: "Oootsimo", kills: 1 }
+    3: { username: "Assasinu Credi", kills: 0 }
+    4: { username: "Zeh", kills: 0 }
+}
+
+game_21: {
+    1: { username: "Oootsimo", kills: 22 }
+    2: { username: "Zeh", kills: 19 }
+    3: { username: "Assasinu Credi", kills: 19 }
+    4: { username: "Isgalamido", kills: 17 }
+    5: { username: "Dono da Bola", kills: 14 }
+    6: { username: "Mal", kills: 6 }
+}
+

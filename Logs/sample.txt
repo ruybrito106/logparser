@@ -1,0 +1,7 @@
+0:00 InitGame: asjghdsaghd
+20:54 Kill: 1022 2 22: A killed B by MOD_TRIGGER_HURT
+20:54 Kill: 1022 2 22: A killed C by MOD_TRIGGER_HURT
+20:54 Kill: 1022 2 22: A killed D by MOD_TRIGGER_HURT
+20:54 Kill: 1022 2 22: E killed A by MOD_TRIGGER_HURT
+20:54 Kill: 1022 2 22: <world> killed E by MOD_TRIGGER_HURT
+20:54 Kill: 1022 2 22: <world> killed F by MOD_TRIGGER_HURT
